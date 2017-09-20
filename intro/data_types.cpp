@@ -1,6 +1,9 @@
 #include <iostream>
-#include <cstdio>
+
 using namespace std;
+
+// Basic Data Types
+// https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem
 
 int main() {
     // Int ("%d"): 32 Bit integer
